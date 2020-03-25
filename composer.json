@@ -1,0 +1,18 @@
+{
+    "name": "achilleskal/php-di",
+    "description": "A simple Dependency Injection Container for educational purposes.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AchillesKal",
+            "email": "achilleas90gr@gmail.com",
+            "homepage": "https://achilleskal.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"AchillesKal\\DI\\": "src/"}
+    }
+}
